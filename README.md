@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Deploy Hugo site to Pages](https://github.com/bitbucket90/bitbucket90.github.io/actions/workflows/hugo.yml/badge.svg?branch=main)](https://github.com/bitbucket90/bitbucket90.github.io/actions/workflows/hugo.yml)
 
 <!--
 **bitbucket90/bitbucket90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
