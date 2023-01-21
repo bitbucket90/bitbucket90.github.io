@@ -20,4 +20,4 @@ i7-1280p
 and 4 beautiful thunderbolt 4 ports for all the accessories! Hoping this will give me the best of portability AND some power flex when I want to game using the egpu.
 
 
-Stay Tuned!
+Stay Tuned!!
