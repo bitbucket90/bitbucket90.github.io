@@ -6,7 +6,7 @@ draft: False
 # My NUC-11 Shit the bed
 
 
-It just wont power on, I believe its a psu/system board failure but do not have the tools to inspect. Ordered a [frame.work](https://https://frame.work/) 12th gen DIY laptop & an egpu case with a 10gb SFP adapter! So while the NUC-11 is going to have to wait, Im using my ROG for now running on Arch. Really look forward to doing this frame.work build and documenting it.
+It just wont power on, I believe its a psu/system board failure but do not have the tools to inspect. Ordered a [frame.work](https://frame.work/) 12th gen DIY laptop & an egpu case with a 10gb SFP adapter! So while the NUC-11 is going to have to wait, Im using my ROG for now running on Arch. Really look forward to doing this frame.work build and documenting it.
 
 ![installing mainboard](https://static.frame.work/67p5b9ecp4lmao5k0loswul67xke)
 
